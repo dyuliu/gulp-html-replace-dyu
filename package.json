@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-replace-dyu",
-  "version": "1.6.2",
+  "version": "1.0.0",
   "description": "A fork of 'gulp-html-replace' with a slight change.",
   "keywords": [
     "gulpplugin",
@@ -15,8 +15,8 @@
     "url": "https://github.com/dyuliu/gulp-html-replace-dyu.git"
   },
   "author": {
-    "name": "Vladimir Kucherenko",
-    "email": "kvsoftware@gmail.com"
+    "name": "Dongyu Liu",
+    "email": "windliudy@gmail.com"
   },
   "contributors": [
     {
