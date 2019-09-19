@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-replace-dyu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fork of 'gulp-html-replace' with a slight change.",
   "keywords": [
     "gulpplugin",
